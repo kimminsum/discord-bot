@@ -76,5 +76,4 @@ async def on_message(message):
         await message.channel.send("https://tenor.com/view/%EB%A9%88%EC%B6%B0-stop-gif-21048386")
     ###
 
-        # await message.channel.send(file=discord.File('시무라/시무라.jpg'))
 client.run(token)
